@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "flask-auth-test", "flask-auth-test\flask-auth-test.pyproj", "{546C2051-80E2-4FDF-92C6-627FBBD8EEA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{546C2051-80E2-4FDF-92C6-627FBBD8EEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546C2051-80E2-4FDF-92C6-627FBBD8EEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546C2051-80E2-4FDF-92C6-627FBBD8EEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546C2051-80E2-4FDF-92C6-627FBBD8EEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14D257F2-D8DC-45DD-9780-DA9F87EFC86C}
+	EndGlobalSection
+EndGlobal
